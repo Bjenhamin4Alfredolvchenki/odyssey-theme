@@ -16,7 +16,7 @@
     "theme"
   ],
   "dependencies": {
-    "astro": "^1.0.2",
+    "astro": "^1.6.1",
     "astro-icon": "^0.7.3"
   },
   "publishConfig": {
